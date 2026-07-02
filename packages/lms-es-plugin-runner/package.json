@@ -14,7 +14,7 @@
   "dependencies": {
     "@lmstudio/lms-common": "^0.8.9",
     "@lmstudio/lms-common-server": "^0.2.18",
-    "@npmcli/arborist": "^8.0.0"
+    "@npmcli/arborist": "^9.9.0"
   },
   "devDependencies": {
     "@types/node": "^22.7.7",
